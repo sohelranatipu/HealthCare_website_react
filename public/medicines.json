@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Azyth 500",
+      "price": 52,
+      "id": 1,
+      "img": "https://cdn.osudpotro.com/medicine/azyth-500-1629804200698.webp",
+      "generic":"Azithromycin 500mg",
+      "category" : "Tablet",
+      "manufacturer":"Sandoz Bangladesh Limited.",
+      "description": "Azithromycin is shown for diseases (caused by helpless living beings) in lower respiratory tract contaminations counting bronchitis and pneumonia, in upper respiratory tract contaminations counting sinusitis and pharyngitis/tonsillitis, in otitis media, and in the skin and delicate tissue diseases. In sexually transmitted illnesses in men and ladies, Azithromycin is demonstrated within the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis. "
+    },
+    {
+      "name": "Rispolux 2",
+      "price": 6,
+      "id": 2,
+      "img": "https://cdn.osudpotro.com/medicine/rispolux-2-1629807569805.webp",
+      "generic":"Risperidone (Oral) 2mg",
+      "category" : "Tablet",
+      "manufacturer":"Sandoz Bangladesh Limited.",
+      "description": "Azithromycin is shown for diseases (caused by helpless living beings) in lower respiratory tract contaminations counting bronchitis and pneumonia, in upper respiratory tract contaminations counting sinusitis and pharyngitis/tonsillitis, in otitis media, and in the skin and delicate tissue diseases. In sexually transmitted illnesses in men and ladies, Azithromycin is demonstrated within the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis. "
+    },
+    {
+      "name": "Napa Extra",
+      "price": 2.38,
+      "id": 3,
+      "img": "https://cdn.osudpotro.com/medicine/napa-extra-1630001325835-removebg-preview-1630562777966.webp",
+      "generic":"Paracetamol 500mgCaffeine 65mg",
+      "category" : "Tablet",
+      "manufacturer":"Beximco Pharmaceuticals Ltd.",
+      "description": "Fever, common cold, and influenza, headache, toothache, earache, bodyache, myalgia, neuralgia, dysmenorrhoea, sprains, colic pain, back pain, post-operative pain, postpartum discomfort, inflammatory pain, and post vaccination pain in children are among the conditions for which paracetamol is prescribed. It's also used to treat rheumatic and osteoarthritic pain, as well as joint stiffness."
+    },
+    {
+      "name": "Sergel 20",
+      "price": 6.65,
+      "id": 4,
+      "img": "https://cdn.osudpotro.com/medicine/sergel-20-mg-1631528299689.webp",
+      "generic":"Esomeprazole 20mg",
+      "category" : "Tablet",
+      "manufacturer":"Healthcare Pharmaceuticals Ltd.",
+      "description": "Esomeprazole is used to treat chronic heartburn and other symptoms associated with GERD.To alleviate persistent heartburn symptoms and other GERD-related problems In order to treat erosive esophagitis,For the maintenance of erosive esophagitis healing In patients with duodenal ulcer illness, in conjunction with amoxicillin and clarithromycin, for the elimination of Helicobacter pylori infection. Zollinger-Ellison Syndrome is a condition in which there is a buildup of toxins in"
+    },
+    {
+      "name": "Moxaclav 625",
+      "price": 30.40,
+      "id": 5,
+      "img": "https://cdn.osudpotro.com/medicine/azyth-500-1629804200698.webp",
+      "generic":"Clavulanic Acid 125mg",
+      "category" : "Tablet",
+      "manufacturer":"Square Pharmaceuticals Limited",
+      "description": "Azithromycin is shown for diseases (caused by helpless living beings) in lower respiratory tract contaminations counting bronchitis and pneumonia, in upper respiratory tract contaminations counting sinusitis and pharyngitis/tonsillitis, in otitis media, and in the skin and delicate tissue diseases. In sexually transmitted illnesses in men and ladies, Azithromycin is demonstrated within the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis. "
+    },
+    {
+      "name": "Seclo 20",
+      "price": 5.70,
+      "id": 6,
+      "img": "https://cdn.osudpotro.com/medicine/whatsapp-image-2021-08-28-at-111255-am-removebg-preview-1630128526048.webp",
+      "generic":"Omeprazole 20mg",
+      "category" : "Tablet",
+      "manufacturer":"Square Pharmaceuticals Limited",
+      "description": "Azithromycin is shown for diseases (caused by helpless living beings) in lower respiratory tract contaminations counting bronchitis and pneumonia, in upper respiratory tract contaminations counting sinusitis and pharyngitis/tonsillitis, in otitis media, and in the skin and delicate tissue diseases. In sexually transmitted illnesses in men and ladies, Azithromycin is demonstrated within the treatment of non-gonococcal urethritis and cervicitis due to Chlamydia trachomatis. "
+    },
+    {
+      "name": "Losectil 20",
+      "price": 4.50,
+      "id": 7,
+      "img": "https://cdn.osudpotro.com/medicine/azyth-500-1629804200698.webp",
+      "generic":"Omeprazole 20mg",
+      "category" : "Capsul",
+      "manufacturer":"SK+F",
+      "description": "Omeprazole is used to treat ulcers in the stomach and duodenum. Duodenal and gastric ulcers caused by NSAIDs. In patients with a history of NSAID-related duodenal and gastric ulcers, as a preventative measure Gastro-esophageal reflux disease (GERD) is a type of gastro-esophageal reflux Acid reflux disease management over time Dyspepsia caused by stomach acid Reflux esophagitis with ulcers is a serious condition."
+    },
+    {
+      "name": "Omep 20",
+      "price": 4.75,
+      "id": 8,
+      "img": "https://cdn.osudpotro.com/medicine/96-1629626223771.webp",
+      "generic":"Omeprazole 20mg",
+      "category" : "Capsule",
+      "manufacturer":"Aristopharma Ltd.",
+      "description": "Omeprazole is used to treat ulcers in the stomach and duodenum Duodenal and stomach ulcers caused by NSAIDs In patients with a history of NSAID-related duodenal and stomach ulcers, as a preventative measur Gastro-esophageal reflux disease (GERD) is a type of gastro-esophageal refluxAcid reflux disease management over time "
+    }
+  ]
