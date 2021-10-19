@@ -17,6 +17,7 @@ import Footer from './Components/Footer/Footer';
 import SingleMedicine from './Components/SingleMedicine/SingleMedicine';
 import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
 import Privacy from './Components/Privacy/Privacy';
+import About from './Components/About/About';
 
 function App() {
   return (
@@ -33,6 +34,9 @@ function App() {
            </Route>
            <Route path="/medicines">
               <Medicines></Medicines>
+           </Route>
+           <Route path="/about">
+              <About></About>
            </Route>
            <PrivateRoute path="/privacy">
               <Privacy></Privacy>

@@ -6,8 +6,21 @@ const Home = () => {
     return (
         <div>
             
-            <img width="100%" src="https://i.ibb.co/j8bSx71/doctor.jpg" alt="" />
+            <img width="100%" height="300px" src="https://i.ibb.co/B3hBfgx/banner.png" alt="" />
             <Medicines></Medicines>
+            <br/>
+            <br/>
+            <br/>
+            <img width="100%" src="https://i.ibb.co/1JtwPsK/add.jpg" alt="" />
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <img width="100%" src="https://i.ibb.co/bLwT1mc/phone.png" alt="" />
+            <br/>
+            <br/>
         </div>
     );
 };

@@ -11,7 +11,7 @@ const Header = () => {
         <>
   <Navbar className="py-3" collapseOnSelect expand="lg" bg="dark" variant="dark"  sticky="top">
     <Container>
-    <Navbar.Brand href="#home">GoMedic</Navbar.Brand>
+    <Navbar.Brand href="#home">OsudhPotro</Navbar.Brand>
     <Nav className="me-auto">
       
     </Nav>
@@ -19,6 +19,7 @@ const Header = () => {
     <Navbar.Collapse className="justify-content-end">
       <Nav.Link as={Link} to="/home">Home</Nav.Link>
       <Nav.Link as={Link} to="/medicines">Medicines</Nav.Link>
+      <Nav.Link as={Link} to="/about">About</Nav.Link>
       <Nav.Link as={Link} to="/privacy">Privacy-Policy</Nav.Link>
       <Nav.Link as={Link} to="/Login">login</Nav.Link>
       {user.email &&

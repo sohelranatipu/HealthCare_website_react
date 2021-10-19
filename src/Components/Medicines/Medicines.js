@@ -11,7 +11,7 @@ const Medicines = () => {
     },[])
     return (
         <div>
-            <h1>This is Medicine</h1>
+            <h1 className="p-5">Our Medicines</h1>
             <Row xs={1} sm={2} md={3} lg={4} className="g-4">
                 
                  {
